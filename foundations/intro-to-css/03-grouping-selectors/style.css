@@ -1,0 +1,12 @@
+* {
+    font-size: 1.5rem;
+}
+
+#clickme {
+    color: white;
+    background-color: black;
+}
+
+#noclickme {
+    background-color: yellow;
+}

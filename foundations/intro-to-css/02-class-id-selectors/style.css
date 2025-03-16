@@ -1,0 +1,13 @@
+.one {
+    background-color: pink;
+}
+
+#two {
+    color: blue;
+    font-size: 1.5rem;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
